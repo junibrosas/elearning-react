@@ -1,4 +1,4 @@
-import { ICourse, courseReducer } from './../containers/courses-page/reducers';
+import { ICourse, courseReducer } from '../containers/courses-page/courses-page.reducers';
 import { combineReducers } from 'redux';
 
 export interface IRootState {
